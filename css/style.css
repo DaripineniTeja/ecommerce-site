@@ -162,3 +162,12 @@ footer p {
     margin: 0;
     font-size: 1.1em;
 }
+
+.cart-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
